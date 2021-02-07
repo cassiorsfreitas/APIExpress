@@ -38,3 +38,7 @@ With a myriad of HTTP utility methods and middleware at your disposal, creating 
 - Delete a message with:
   - URL: http://localhost:3003/products/1
   - Method: DELETE
+  
+#### Post Example
+  
+![Postman Example](https://github.com/cassiorsfreitas/Simple-API-Express.js/blob/main/img/postman.png)
