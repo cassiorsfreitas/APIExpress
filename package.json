@@ -1,0 +1,27 @@
+{
+  "name": "APIExpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cassiorsfreitas/APIExpress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cassiorsfreitas/APIExpress/issues"
+  },
+  "homepage": "https://github.com/cassiorsfreitas/APIExpress#readme",
+  "dependencies": {
+    "express": "4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "1.14.11"
+  }
+}
