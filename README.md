@@ -21,7 +21,7 @@ With a myriad of HTTP utility methods and middleware at your disposal, creating 
 - `npm start`
 - optional: include _.env_ in your _.gitignore_
 
-### GET Routes
+#### GET Routes
 
 - visit http://localhost:3003
   - /products
