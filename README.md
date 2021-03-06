@@ -42,3 +42,6 @@ With a myriad of HTTP utility methods and middleware at your disposal, creating 
 #### Post Example
   
 ![Postman Example](https://github.com/cassiorsfreitas/Simple-API-Express.js/blob/main/img/postman.png)
+
+
+Feito com ♥ by [Cássio Freitas](https://www.linkedin.com/in/cassiorsfreitas/)
